@@ -1,0 +1,29 @@
+_repo: Discourses-on-Various-Subjects-Vol-1-of-2_60915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duché, Jacob
+    aliases:
+    - Caspipina, Tamoc
+    - Duche, Jacob
+    birthdate: 1738
+    deathdate: 1798
+    gutenberg_agent_id: '51186'
+    url: http://www.gutenberg.org/2009/agents/51186
+    wikipedia: https://en.wikipedia.org/wiki/Jacob_Duch%C3%A9
+description: ''
+gutenberg_issued: '2019-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Episcopal Church -- Sermons'
+- !lcc 'BX'
+- !lcsh 'Sermons, American'
+- GITenberg
+title: Discourses on Various Subjects, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/60915
